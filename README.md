@@ -12,4 +12,5 @@
 - <a href="https://github.com/swathinator/Portspoof"> Portspoof </a>
 - <a href="https://github.com/swathinator/Web-Honeypot"> Web Honeypot </a>
 - <a href="https://github.com/swathinator/Honey-Share"> Honey Share </a>
+- <a href="https://github.com/swathinator/Cowrie"> Cowrie </a>
 ## SOC Core Skills
