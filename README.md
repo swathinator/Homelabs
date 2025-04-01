@@ -13,4 +13,5 @@
 - <a href="https://github.com/swathinator/Web-Honeypot"> Web Honeypot </a>
 - <a href="https://github.com/swathinator/Honey-Share"> Honey Share </a>
 - <a href="https://github.com/swathinator/Cowrie"> Cowrie </a>
+- <a href="https://github.com/swathinator/Canarytokens"> Canarytokens </a>
 ## SOC Core Skills
