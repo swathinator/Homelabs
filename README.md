@@ -3,7 +3,12 @@
 - <a href="https://medium.com/@swathitadepalli/improving-windows-logging-visibility-in-elastic-12e2f6996e64"> Sysmon Integration </a>
 
 ## BHIS Antisyphon Training 
+
+
+
+
 ## Active Defense and Cyber Deception
+<img src="https://github.com/user-attachments/assets/b057f587-4277-43d7-8006-db1d09f0159d" width="300"><br/>
 - <a href="https://github.com/swathinator/Pass-the-Hash"> Pass the Hash </a>
 - <a href="https://github.com/swathinator/Atomic-Red-Team-Bluespawn"> Atomic Red Team/Bluespawn </a>
 - <a href="https://github.com/swathinator/C2-Analysis"> C2 Analysis </a>
