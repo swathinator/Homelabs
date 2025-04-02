@@ -20,3 +20,5 @@
 - <a href="https://github.com/swathinator/Cowrie"> Cowrie </a>
 - <a href="https://github.com/swathinator/Canarytokens"> Canarytokens </a>
 ## SOC Core Skills
+<img src="https://github.com/user-attachments/assets/4a3af250-ab39-4ddb-a281-f660361b63c6" width="300">
+
