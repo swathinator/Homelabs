@@ -1,13 +1,9 @@
 # Homelabs
 - <a href="https://github.com/swathinator/Keylogger-Lab">Keylogger Attack + Detection</a> <br/>
-- <a href="https://medium.com/@swathitadepalli/improving-windows-logging-visibility-in-elastic-12e2f6996e64"> Sysmon Integration </a>
-
-## BHIS Antisyphon Training 
+- <a href="https://medium.com/@swathitadepalli/improving-windows-logging-visibility-in-elastic-12e2f6996e64"> Sysmon Integration </a> 
 
 
-
-
-## Active Defense and Cyber Deception
+## Antisyphon Training - Active Defense and Cyber Deception
 <img src="https://github.com/user-attachments/assets/b057f587-4277-43d7-8006-db1d09f0159d" width="300"><br/>
 - <a href="https://github.com/swathinator/Pass-the-Hash"> Pass the Hash </a>
 - <a href="https://github.com/swathinator/Atomic-Red-Team-Bluespawn"> Atomic Red Team/Bluespawn </a>
@@ -19,6 +15,6 @@
 - <a href="https://github.com/swathinator/Honey-Share"> Honey Share </a>
 - <a href="https://github.com/swathinator/Cowrie"> Cowrie </a>
 - <a href="https://github.com/swathinator/Canarytokens"> Canarytokens </a>
-## SOC Core Skills
+## Antisyphon Training - SOC Core Skills
 <!--<img src="https://github.com/user-attachments/assets/4a3af250-ab39-4ddb-a281-f660361b63c6" width="300">-->
 
