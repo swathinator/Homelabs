@@ -1,4 +1,5 @@
 # Homelabs
+ <img src="https://github.com/user-attachments/assets/590d457b-7f07-46ef-ad3b-e115ade309de" width="300"><br/>
 - <a href="https://github.com/swathinator/Keylogger-Lab">Keylogger Attack + Detection</a> <br/>
 - <a href="https://medium.com/@swathitadepalli/improving-windows-logging-visibility-in-elastic-12e2f6996e64"> Sysmon Integration </a> 
 
